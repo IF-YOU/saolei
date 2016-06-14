@@ -1,0 +1,60 @@
+ul,li{
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	.caozuo{
+		width: 300px;
+		background: #0D0D29;
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		margin: 0;
+	}
+	.caozuo ul,input{
+		margin: 20px 30px;
+	}
+	.caozuo input{
+		padding: 10px 40px;
+	}
+	.caozuo ul li{
+		padding: 10px;
+		text-align: center;
+		background: url(../image/按钮.png);
+		margin-bottom: 30px;
+		width: 130px;
+		height: 25px;
+		color: #fff;
+		line-height: 25px;
+		font-size: 20px;
+		left: 0;
+		right: 0;
+	}
+	.caozuo .active{
+		color: yellow;
+	}
+	#sence{
+		width: 600px;
+		height: 600px;
+		margin: auto;
+		position: absolute;
+		left: 300px;
+		right: 0;
+		top: 0;
+		bottom: 0;
+		background: white;
+	}
+	.block{
+		width: 29px;
+		height: 29px;
+		float: left;
+		background: url(../image/caodi.jpg);
+		margin: 0 1px 1px 0;
+		border-radius: 20%;
+	}
+	.shiwu{
+		background: url(../image/shiwu.png);
+	}
+	.she{
+		background: #09D409;
+	}
